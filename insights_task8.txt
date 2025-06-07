@@ -1,0 +1,18 @@
+Simple Sales Dashboard - Key Insights
+-------------------------------------
+
+1. West Region Dominance:
+   - The West region recorded the highest sales volume across all months.
+   - Suggested Action: Prioritize West for marketing campaigns and inventory focus.
+
+2. Product Category Performance:
+   - Technology leads in both sales and profitability, outperforming Furniture and Office Supplies.
+   - Suggested Action: Push Technology products in underperforming regions to improve overall margin.
+
+3. Monthly Sales Pattern:
+   - Clear seasonal spike in sales during November and December.
+   - Suggested Action: Launch seasonal promotions and ensure supply readiness in Q4.
+
+4. Regional Category Preference:
+   - Office Supplies are more popular in the South, while Technology dominates in the West.
+   - Suggested Action: Tailor product strategies based on region-wise preferences.
